@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Disco/static/css/main.cc9eece1.css",
+    "main.js": "/Disco/static/js/main.8e206550.js",
+    "static/js/787.f9e173cd.chunk.js": "/Disco/static/js/787.f9e173cd.chunk.js",
+    "static/media/Screen_Massach.png": "/Disco/static/media/Screen_Massach.4a6e7948408416c394c4.png",
+    "static/media/ufox.png": "/Disco/static/media/ufox.094475e2f2a589639acb.png",
+    "static/media/BD2022.png": "/Disco/static/media/BD2022.40f27508204b53b952dc.png",
+    "static/media/firebase.png": "/Disco/static/media/firebase.aa7464566df484b6c244.png",
+    "static/media/discord logo.png": "/Disco/static/media/discord logo.2f26b12210749d45d35c.png",
+    "static/media/uculturemix.jpg": "/Disco/static/media/uculturemix.082952bb0bbc2490e1a2.jpg",
+    "index.html": "/Disco/index.html",
+    "main.cc9eece1.css.map": "/Disco/static/css/main.cc9eece1.css.map",
+    "main.8e206550.js.map": "/Disco/static/js/main.8e206550.js.map",
+    "787.f9e173cd.chunk.js.map": "/Disco/static/js/787.f9e173cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc9eece1.css",
+    "static/js/main.8e206550.js"
+  ]
+}
